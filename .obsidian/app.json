@@ -1,0 +1,14 @@
+{
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "assets",
+  "trashOption": "local",
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Dev",
+    "dev",
+    "readme",
+    "piko"
+  ],
+  "promptDelete": false
+}

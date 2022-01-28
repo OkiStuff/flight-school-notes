@@ -2,6 +2,4 @@
 ###### This vault will eventually include notes for most sections of Flight School.
 <br />
 
-#### Table of Contents
-
-- 
+**Current Stage: ** Ground School

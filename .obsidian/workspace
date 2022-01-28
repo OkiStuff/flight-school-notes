@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "bc59196497b03d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc699fa67184f21a",
+        "type": "split",
+        "dimension": 63.33333333333333,
+        "children": [
+          {
+            "id": "3ab5c78ddf953812",
+            "type": "leaf",
+            "dimension": 56.212424849699396,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ground_school/section_1/module.two.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "2224c6d7432a6a5b",
+            "type": "leaf",
+            "dimension": 43.7875751503006,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "9cc27e3f6cf3cb93",
+        "type": "leaf",
+        "dimension": 36.666666666666664,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ground_school/section_1/module.one.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d56f06930ee79dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d34ef942167deac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecb705c9acc32513",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6c8a82312583ab4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29122cc8624621f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fe21e7db70cb6f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1fb7835a86d3c59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32f7e68897a0e64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2224c6d7432a6a5b",
+  "lastOpenFiles": [
+    "README.md",
+    "ground_school/section_1/module.two.md",
+    "assets/traffic_pattern.png",
+    "assets/3d_airport_diagram.png",
+    "assets/3d_airport_diagram.md",
+    "ground_school/section_1/module.one.md",
+    "ground_school/table_of_contents.md",
+    "IACRA.faa.gov.md",
+    "ground_school/section_1/one.md",
+    "summary.md"
+  ]
+}
