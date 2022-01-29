@@ -1,5 +1,5 @@
 # Table of Contents
-###### Notes taken for Gold Seal Online Private Pilot Ground School
+###### Ground School
 <br />
 
 #### Section 1:
