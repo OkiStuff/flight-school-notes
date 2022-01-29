@@ -2,4 +2,6 @@
 ###### Notes taken for Gold Seal Online Private Pilot Ground School
 <br />
 
-[Lesson 1]()
+#### Section 1:
+- [[module.one]]
+- [[module.two]]
